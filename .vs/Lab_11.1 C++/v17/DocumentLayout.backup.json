@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dara\\source\\repos\\Lab_11.1 C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79EBE837-818F-416D-BA25-3D8D3A8C7F87}|UnitTest\\UnitTest.vcxproj|C:\\Users\\Dara\\source\\repos\\Lab_11.1 C\u002B\u002B\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79EBE837-818F-416D-BA25-3D8D3A8C7F87}|UnitTest\\UnitTest.vcxproj|solutionrelative:UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04304F2-B484-47B2-8FB3-6DEF2FD531B2}|Lab_11.1 C\u002B\u002B\\Lab_11.1 C\u002B\u002B.vcxproj|C:\\Users\\Dara\\source\\repos\\Lab_11.1 C\u002B\u002B\\Lab_11.1 C\u002B\u002B\\Lab_11.1 C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A04304F2-B484-47B2-8FB3-6DEF2FD531B2}|Lab_11.1 C\u002B\u002B\\Lab_11.1 C\u002B\u002B.vcxproj|solutionrelative:Lab_11.1 C\u002B\u002B\\Lab_11.1 C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "C:\\Users\\Dara\\source\\repos\\Lab_11.1 C\u002B\u002B\\UnitTest\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.cpp",
+              "ToolTip": "C:\\Users\\Dara\\source\\repos\\Lab_11.1 C\u002B\u002B\\UnitTest\\UnitTest.cpp",
+              "RelativeToolTip": "UnitTest\\UnitTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T16:43:58.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_11.1 C\u002B\u002B.cpp",
+              "DocumentMoniker": "C:\\Users\\Dara\\source\\repos\\Lab_11.1 C\u002B\u002B\\Lab_11.1 C\u002B\u002B\\Lab_11.1 C\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "Lab_11.1 C\u002B\u002B\\Lab_11.1 C\u002B\u002B.cpp",
+              "ToolTip": "C:\\Users\\Dara\\source\\repos\\Lab_11.1 C\u002B\u002B\\Lab_11.1 C\u002B\u002B\\Lab_11.1 C\u002B\u002B.cpp",
+              "RelativeToolTip": "Lab_11.1 C\u002B\u002B\\Lab_11.1 C\u002B\u002B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T15:37:22.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
